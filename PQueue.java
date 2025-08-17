@@ -76,7 +76,7 @@ public class PQueue {
         q.enqueue(new node(5, 6));
         q.enqueue(new node(1, 10));
         q.enqueue(new node(2, 9));
-        q.enqueue(new node(3, 8));
+        q.enqueue(new node(3, 11));
         q.enqueue(new node(4, 7));
 
         node n = q.dequeue();
